@@ -29,7 +29,7 @@ const siteProps = {
   email: "vyomanautjagadeesh@gmail.com",
   gitHub: "https://github.com/Jagadeeshbariki",
   instagram: "https://www.instagram.com/vyomanautjagadeesh/",
-  linkedIn: "satyahttps://www.linkedin.com/in/b-jagadeesh-883b1122a/",
+  linkedIn: "https://www.linkedin.com/in/jagadeesh-bariki-883b1122a/",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
